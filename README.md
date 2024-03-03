@@ -1,5 +1,7 @@
+Abstract
+
 Optimization problems lie at the heart of hydroinformatics, where the quest for efficient resource allocation and decision-making is paramount. In our project, we tackled an optimization challenge aimed at maximizing the objective function 
-![image](https://github.com/fatemehomidi78/Genetic_Algorithm/assets/141303201/fd84e1ef-d546-4fdc-8f99-4f957adf75e3)
+                                ![image](https://github.com/fatemehomidi78/Genetic_Algorithm/assets/141303201/fd84e1ef-d546-4fdc-8f99-4f957adf75e3)
 
 To tackle this problem, we employed genetic algorithms (GAs), a powerful optimization technique inspired by the principles of natural selection and evolution. We implemented the GA in both MATLAB and Python environments, exploring different strategies to efficiently search for the optimal solution within the given constraints.
 
@@ -9,4 +11,4 @@ In Python, we experimented with two different implementations: one incorporating
 
 Through rigorous experimentation and analysis, we evaluated the efficiency and effectiveness of our genetic algorithm approach in solving the optimization problem. Our results not only demonstrate the versatility of genetic algorithms in hydroinformatics but also provide practical insights into the selection of appropriate parameters and strategies for tackling similar optimization challenges in the field.
 
-For further exploration and access to our MATLAB and Python code implementations, please visit our GitHub repository at [Your GitHub Repository Link].
+
